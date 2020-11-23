@@ -1,6 +1,6 @@
 <p>&nbsp;</p>
 <p><img src="https://cdn.pixabay.com/photo/2020/02/22/17/53/communication-4871245_1280.jpg"></p>
-<h2>Undirected Weighted Graph</h2>
+<h2>Weighted Undirected Graph</h2>
 <p>Project as part of the object-oriented course JAVA language.</p>
 <p>The above project deals with the construction of the data structure - an Undirected and unweighted graph, using other data structures.</p>
 <p><strong>In this project you can find algorithms that deal with solving various problems:</strong></p>
