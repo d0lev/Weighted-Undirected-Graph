@@ -1,5 +1,5 @@
 <p>&nbsp;</p>
-<p><img src="https://cdn.pixabay.com/photo/2020/02/22/17/53/communication-4871245_1280.jpg"></p>
+<p><img src="https://i.ibb.co/M2BwdDW/background.jpg"></p>
 <h2>Weighted Undirected Graph</h2>
 <p>Project as part of the object-oriented course JAVA language.</p>
 <p>The above project deals with the construction of the data structure - an Undirected and unweighted graph, using other data structures.</p>
